@@ -1,13 +1,13 @@
 # Hello together! This is my readme page!
 
-### What i have done since i was in school:
+### What i have done since i was in school?
 I worked at a car dealership in Tübingen for about 9 years from 2012 untill 2021. 3 years as a trainee and 6 years as an automobile salesman and sold new & used cars.
 After that, i worked at BayWa r.e. in Tübingen. My job was to sell photovoltaic modules, inverters and building materials to electricians and stayed there until Oktober 2022.
 
-### What do i do now and in the future?
-Now i am at the beginning of my Web Development Bootcamp until February 2023 and do my first steps in coding. I am looking forward to get an job in the IT-Business. After the Web Development Bootcamp i would like to further educate me in terms of software engineering.
+### What am i doing now and in the future?
+Now i am at the beginning of my Web Development Bootcamp until February 2023 and do my first steps in coding and I am looking forward to get a job in the IT-Business. After the Web Development Bootcamp i would like to further educate me in terms of software engineering.
 
-I learned already a bit of:
+I have already learned a bit of:
 - HTML
 - CSS
 - JavaScript
